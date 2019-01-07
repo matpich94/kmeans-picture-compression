@@ -9,4 +9,4 @@ In a first time k-means are computed among all the pixels (also called centroids
 
 With such an algorithm, the number of colors used in a picture can be significantly reduced. It can be also useful for image segmentation.
 
-![Example of pictures compression with different numbers of k-means (10, 5, 2)](https://github.com/matpich94/kmeans-picture-compression/edit/master/picture_compression.png)
+![Example of pictures compression with different numbers of k-means (10, 5, 2)](https://github.com/matpich94/kmeans-picture-compression/edit/master/picture_compression.jpg)
