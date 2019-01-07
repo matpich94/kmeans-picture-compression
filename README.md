@@ -1,4 +1,4 @@
-# kmeans-for-lossy-data-compression
+# K-means for lossy data compression
 This short code uses the k-means algorithm from the sklearn library in order to compress the size of images. 
 This code can also be seen as a simple example of image segmentation.
 
